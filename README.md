@@ -1,2 +1,2 @@
-# dnsamplify
+# Dnsamplify
 DNS amplification attack tool 
