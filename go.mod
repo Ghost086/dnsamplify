@@ -1,4 +1,4 @@
-module github.com/nick-triller/damplify
+module github.com/ghost086/dnsamplify/
 
 go 1.14
 
