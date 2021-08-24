@@ -32,7 +32,7 @@ Usage:
   dnsamplify <targetIP> <targetPort> [flags]
 
 Flags:
-  -h, --help                   help for damplify
+  -h, --help                   help for dnsamplify
       --resolversPath string   Path to file containing resolver IPs (default "resolvers.txt")
       --workers int            Number of worker routines (default 10)
 ```
