@@ -17,7 +17,7 @@ var (
 )
 
 var rootCmd = &cobra.Command{
-	Use:       "damplify <targetIP> <targetPort>",
+	Use:       "dnsamplify <targetIP> <targetPort>",
 	Short:     "A DNS ampflification attack tool",
 	ValidArgs: []string{"targetIP", "targetPort"},
 	Args:      cobra.ExactArgs(2),
